@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\Escalator\Escalator\bin\Debug\Escalator.exe.config
+C:\Users\Lucas\source\repos\Escalator\Escalator\bin\Debug\Escalator.exe
+C:\Users\Lucas\source\repos\Escalator\Escalator\bin\Debug\Escalator.pdb
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.Form1.resources
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.exe
+C:\Users\Lucas\source\repos\Escalator\Escalator\obj\Debug\Escalator.pdb
